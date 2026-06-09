@@ -24,11 +24,11 @@ This page focuses on overall business performance and includes:
 
 #### Dashboard View
 
-![Profit Analysis](Images/profit-analysis.png)
+![Profit Analysis](images/profit-analysis.png)
 
 #### Interactive Demo
 
-![Profit Analysis Demo](Images/profit-analysis-demo.gif)
+![Profit Analysis Demo](images/profit-analysis-demo.gif)
 
 ---
 
@@ -44,11 +44,11 @@ This page provides deeper analysis into profitability drivers and business perfo
 
 #### Dashboard View
 
-![Profit Insights](Images/profit-insights.png)
+![Profit Insights](images/profit-insights.png)
 
 #### Interactive Demo
 
-![Profit Insights Demo](Images/profit-insights-demo.gif)
+![Profit Insights Demo](images/profit-insights-demo.gif)
 
 ---
 
