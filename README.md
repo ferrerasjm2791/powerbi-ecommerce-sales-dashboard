@@ -8,6 +8,18 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 
 The dashboard provides a high-level overview of key business metrics and allows users to explore sales performance through interactive filters and visualizations.
 
+## Interactive Demo
+
+### Profit Analysis
+
+![Profit Analysis Demo](images/profit-analysis-demo.gif)
+
+### Profit Insights
+
+![Profit Insights Demo](images/profit-insights-demo.gif)
+
+---
+
 ## Dashboard Pages
 
 ### 1. Profit Analysis
@@ -26,10 +38,6 @@ This page focuses on overall business performance and includes:
 
 ![Profit Analysis](images/profit-analysis.png)
 
-#### Interactive Demo
-
-![Profit Analysis Demo](images/profit-analysis-demo.gif)
-
 ---
 
 ### 2. Profit Insights
@@ -45,10 +53,6 @@ This page provides deeper analysis into profitability drivers and business perfo
 #### Dashboard View
 
 ![Profit Insights](images/profit-insights.png)
-
-#### Interactive Demo
-
-![Profit Insights Demo](images/profit-insights-demo.gif)
 
 ---
 
